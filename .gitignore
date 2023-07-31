@@ -1,0 +1,13 @@
+#### IGNORE / DON'T COMMIT THESE FILES TO THE REPO
+
+# Ignore __pycache__ folders
+__pycache__/
+
+# Ignore some files that might be added by macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore some folders and files that might be used by VS Code
+.vscode/*
+
